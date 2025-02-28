@@ -1,5 +1,7 @@
 # Analyse des Ventes d'un Supermarché 
 
+![image](https://github.com/user-attachments/assets/71609959-ef8c-40d7-9776-309311b53771)
+
 ## Contexte du Projet
 Ce projet d'analyse des ventes d'un supermarché vise à fournir une vue d'ensemble des performances commerciales, des produits les plus vendus, et des tendances saisonnières afin d'optimiser la prise de décision stratégique. Le projet s'inscrit dans une démarche analytique complète, allant de la collecte de données brutes jusqu'à la création de tableaux de bord interactifs, permettant de répondre aux principales questions business des gestionnaires du supermarché.
 
